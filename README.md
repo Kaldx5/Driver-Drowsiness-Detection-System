@@ -1,6 +1,4 @@
-# Driver-Drowsiness-Detection-System
- Drowsy Driver Detection Device  Powered by TinyML model 
-# Driver Drowsiness Detection System
+# Driver Drowsiness Detection System Powered by TinyML model
 
 ![Project Banner](Diag\sampolpicture.png)
 
@@ -88,6 +86,20 @@ This project follows an **edge computing approach**, where all computations are 
 - 🕶 **Enhanced Vision System**: Infrared-based night vision for low-light driving.
 
 ---
+
+## 📆 Project Timeline  
+This project was developed during the **Fall 2024 semester** as part of the **CENG 497 - Computer Engineering Design** course at **Istanbul Okan University**. Below is the timeline followed throughout the semester:  
+
+- **📜 October 25, 2024** - Submitted **Individual Graduation Project Proposal**  
+- **📄 November 18, 2024** - Submitted **System Requirements Specification (SRS)**  
+- **📂 December 16, 2024** - Submitted **Software Design Description (SDD)**  
+- **📢 January 13, 2025** - Prepared and sent **Final Presentation**  
+- **🎤 January 15, 2025** - **CENG 497 Project Presentations**  
+- **🏆 Final Grade:** Achieved a **BA** in the course for this project  
+
+This project will continue to be improved in the upcoming semester. 🚀
+
+
 
 ## 📚 References
 1. Khaled Alrefai, **"Driver Drowsiness Detection System"** - [Software Design Document (SDD)](docs/SDD.pdf)
