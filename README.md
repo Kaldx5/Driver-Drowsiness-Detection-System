@@ -1,6 +1,6 @@
 # Driver Drowsiness Detection System Powered by TinyML model
 
-![Project Banner](Diag\sampolpicture.png)
+![Project Banner](Diag/sampolpicture.png)
 
 ## 🚗 Overview
 The **Driver Drowsiness Detection System (DDDS)** is an AI-powered concept aimed at detecting signs of drowsiness in drivers using **TinyML** models. The system monitors eye activity in real-time and triggers alerts (sound, vibration, or light) when signs of fatigue are detected.  
